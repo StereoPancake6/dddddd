@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/3A9wdSkL"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/StereoPancake6/ddd/main/depo.lua"))()
 
 Aiming.TeamCheck(false)
 
