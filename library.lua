@@ -2,6 +2,18 @@ local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stereo
 Aiming.TeamCheck(false)
 
 
+getgenv().Aiming = {  
+    
+    
+    FOV = 40
+    
+    FOVSides = 25,
+    
+    HitChance = 110
+    
+
+}
+
 
 local Workspace = game:GetService("Workspace")
 
